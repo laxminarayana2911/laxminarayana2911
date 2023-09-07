@@ -1,4 +1,6 @@
 ### Hi there 👋
+* I am currently studing masters in Computers Science at Northwest Missouri state university
+* I am intrested in collabrating and working in different projects
 
 <!--
 **laxminarayana2911/laxminarayana2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
